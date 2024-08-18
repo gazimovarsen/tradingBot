@@ -1,0 +1,5226 @@
+C:\Users\User\PycharmProjects\tradingbot\venv\Scripts\python.exe C:\Users\User\PycharmProjects\tradingBot\bot.py
+1 ^GSPC 0.6011396011396012 0.0
+Target
+1    0.54456
+0    0.45544
+Name: count, dtype: float64
+Predictions
+0.0    4833
+1.0     351
+Name: count, dtype: int64
+0.0
+
+
+2 SPY 0.5292096219931272 0.0
+Target
+1    0.548014
+0    0.451986
+Name: count, dtype: float64
+Predictions
+0.0    4114
+1.0     291
+Name: count, dtype: int64
+0.0
+
+
+3 MMM 0.5217391304347826 0.0
+Target
+1    0.523148
+0    0.476852
+Name: count, dtype: float64
+Predictions
+0.0    4931
+1.0     253
+Name: count, dtype: int64
+0.0
+
+
+4 AOS 0.5414012738853503 0.0
+Target
+1    0.519869
+0    0.480131
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+5 ABT 0.5393258426966292 0.0
+Target
+1    0.513503
+0    0.486497
+Name: count, dtype: float64
+Predictions
+0.0    5095
+1.0      89
+Name: count, dtype: int64
+0.0
+
+
+6 ABMD 0.5238095238095238 0.0
+Target
+1    0.512991
+0    0.487009
+Name: count, dtype: float64
+Predictions
+0.0    4685
+1.0     126
+Name: count, dtype: int64
+0.0
+
+
+7 ACN 0.5401459854014599 0.0
+Target
+1    0.547861
+0    0.452139
+Name: count, dtype: float64
+Predictions
+0.0    2130
+1.0     137
+Name: count, dtype: int64
+0.0
+
+
+$ATVI: possibly delisted; No timezone found
+8 ADM 0.593939393939394 0.0
+Target
+1    0.524691
+0    0.475309
+Name: count, dtype: float64
+Predictions
+0.0    5019
+1.0     165
+Name: count, dtype: int64
+0.0
+
+
+9 ADBE 0.5119617224880383 0.0
+Target
+1    0.524884
+0    0.475116
+Name: count, dtype: float64
+Predictions
+0.0    4975
+1.0     209
+Name: count, dtype: int64
+0.0
+
+
+10 ADP 0.5787781350482315 0.0
+Target
+1    0.530285
+0    0.469715
+Name: count, dtype: float64
+Predictions
+0.0    4873
+1.0     311
+Name: count, dtype: int64
+0.0
+
+
+11 AAP 0.48366013071895425 0.0
+Target
+1    0.500918
+0    0.499082
+Name: count, dtype: float64
+Predictions
+0.0    2025
+1.0     153
+Name: count, dtype: int64
+0.0
+
+
+12 AES 0.5142857142857142 0.0
+Target
+1    0.507382
+0    0.492618
+Name: count, dtype: float64
+Predictions
+0.0    4704
+1.0     105
+Name: count, dtype: int64
+0.0
+
+
+13 AFL 0.5721153846153846 0.0
+Target
+1    0.529128
+0    0.470872
+Name: count, dtype: float64
+Predictions
+0.0    4976
+1.0     208
+Name: count, dtype: int64
+0.0
+
+
+14 A 0.5918367346938775 0.0
+Target
+1    0.531646
+0    0.468354
+Name: count, dtype: float64
+Predictions
+0.0    2637
+1.0      49
+Name: count, dtype: int64
+0.0
+
+
+15 AIG 0.4975845410628019 0.0
+Target
+1    0.506559
+0    0.493441
+Name: count, dtype: float64
+Predictions
+0.0    4977
+1.0     207
+Name: count, dtype: int64
+0.0
+
+
+16 APD 0.5547945205479452 0.0
+Target
+1    0.526042
+0    0.473958
+Name: count, dtype: float64
+Predictions
+0.0    5038
+1.0     146
+Name: count, dtype: int64
+0.0
+
+
+17 AKAM 0.5697674418604651 0.0
+Target
+1    0.531852
+0    0.468148
+Name: count, dtype: float64
+Predictions
+0.0    2528
+1.0     172
+Name: count, dtype: int64
+0.0
+
+
+18 ALK 0.5063291139240507 0.0
+Target
+1    0.508681
+0    0.491319
+Name: count, dtype: float64
+Predictions
+0.0    5105
+1.0      79
+Name: count, dtype: int64
+0.0
+
+
+19 ALB 0.550561797752809 0.0
+Target
+1    0.525387
+0    0.474613
+Name: count, dtype: float64
+Predictions
+0.0    3869
+1.0     267
+Name: count, dtype: int64
+0.0
+
+
+20 ARE 0.5150501672240803 0.0
+Target
+1    0.527174
+0    0.472826
+Name: count, dtype: float64
+Predictions
+0.0    3013
+1.0     299
+Name: count, dtype: int64
+0.0
+
+
+21 ALGN 0.527027027027027 0.0
+Target
+1    0.524109
+0    0.475891
+Name: count, dtype: float64
+Predictions
+0.0    2311
+1.0      74
+Name: count, dtype: int64
+0.0
+
+
+22 LNT 0.562992125984252 0.0
+Target
+1    0.526042
+0    0.473958
+Name: count, dtype: float64
+Predictions
+0.0    4930
+1.0     254
+Name: count, dtype: int64
+0.0
+
+
+23 ALL 0.4782608695652174 0.0
+Target
+1    0.523732
+0    0.476268
+Name: count, dtype: float64
+Predictions
+0.0    4158
+1.0     161
+Name: count, dtype: int64
+0.0
+
+
+24 GOOGL 0.46808510638297873 0.0
+Target
+1    0.536145
+0    0.463855
+Name: count, dtype: float64
+Predictions
+0.0    1447
+1.0      47
+Name: count, dtype: int64
+0.0
+
+
+25 GOOG 0.5714285714285714 0.0
+Target
+1    0.540161
+0    0.459839
+Name: count, dtype: float64
+Predictions
+0.0    1438
+1.0      56
+Name: count, dtype: int64
+0.0
+
+
+26 MO 0.5224489795918368 0.0
+Target
+1    0.538194
+0    0.461806
+Name: count, dtype: float64
+Predictions
+0.0    4939
+1.0     245
+Name: count, dtype: int64
+0.0
+
+
+27 AMZN 0.48214285714285715 1.0
+Target
+1    0.529518
+0    0.470482
+Name: count, dtype: float64
+Predictions
+0.0    3264
+1.0      56
+Name: count, dtype: int64
+1.0
+
+
+28 AMD 0.4840764331210191 0.0
+Target
+0    0.505015
+1    0.494985
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+29 AEE 0.5211267605633803 0.0
+Target
+1    0.527532
+0    0.472468
+Name: count, dtype: float64
+Predictions
+0.0    3089
+1.0      71
+Name: count, dtype: int64
+0.0
+
+
+30 AAL 0.3888888888888889 0.0
+Target
+0    0.520165
+1    0.479835
+Name: count, dtype: float64
+Predictions
+0.0    1197
+1.0      18
+Name: count, dtype: int64
+0.0
+
+
+31 AEP 0.5067567567567568 0.0
+Target
+1    0.532793
+0    0.467207
+Name: count, dtype: float64
+Predictions
+0.0    5036
+1.0     148
+Name: count, dtype: int64
+0.0
+
+
+32 AXP 0.6165413533834586 0.0
+Target
+1    0.512731
+0    0.487269
+Name: count, dtype: float64
+Predictions
+0.0    5051
+1.0     133
+Name: count, dtype: int64
+0.0
+
+
+33 AMT 0.5344827586206896 0.0
+Target
+1    0.522422
+0    0.477578
+Name: count, dtype: float64
+Predictions
+0.0    3006
+1.0     116
+Name: count, dtype: int64
+0.0
+
+
+34 AWK 0.521505376344086 0.0
+Target
+1    0.506151
+0    0.493849
+Name: count, dtype: float64
+Predictions
+0.0    383
+1.0    186
+Name: count, dtype: int64
+0.0
+
+
+35 AMP 0.5689655172413793 1.0
+Target
+1    0.534751
+0    0.465249
+Name: count, dtype: float64
+Predictions
+0.0    1165
+1.0      58
+Name: count, dtype: int64
+1.0
+
+
+$ABC: possibly delisted; No timezone found
+36 AME 0.5339805825242718 0.0
+Target
+1    0.533372
+0    0.466628
+Name: count, dtype: float64
+Predictions
+0.0    5081
+1.0     103
+Name: count, dtype: int64
+0.0
+
+
+37 AMGN 0.5179856115107914 0.0
+Target
+1    0.500772
+0    0.499228
+Name: count, dtype: float64
+Predictions
+0.0    5045
+1.0     139
+Name: count, dtype: int64
+0.0
+
+
+38 APH 0.5643564356435643 0.0
+Target
+1    0.521638
+0    0.478362
+Name: count, dtype: float64
+Predictions
+0.0    4411
+1.0     303
+Name: count, dtype: int64
+0.0
+
+
+39 ADI 0.5342465753424658 0.0
+Target
+1    0.51466
+0    0.48534
+Name: count, dtype: float64
+Predictions
+0.0    5111
+1.0      73
+Name: count, dtype: int64
+0.0
+
+
+40 ANSS 0.5245901639344263 0.0
+Target
+1    0.53354
+0    0.46646
+Name: count, dtype: float64
+Predictions
+0.0    3304
+1.0     244
+Name: count, dtype: int64
+0.0
+
+
+$ANTM: possibly delisted; No timezone found
+41 AON 0.47651006711409394 0.0
+Target
+1    0.530864
+0    0.469136
+Name: count, dtype: float64
+Predictions
+0.0    5035
+1.0     149
+Name: count, dtype: int64
+0.0
+
+
+42 APA 0.5105820105820106 0.0
+Target
+1    0.512346
+0    0.487654
+Name: count, dtype: float64
+Predictions
+0.0    4806
+1.0     378
+Name: count, dtype: int64
+0.0
+
+
+43 AAPL 0.5027624309392266 0.0
+Target
+1    0.5299
+0    0.4701
+Name: count, dtype: float64
+Predictions
+0.0    5003
+1.0     181
+Name: count, dtype: int64
+0.0
+
+
+44 AMAT 0.5957446808510638 0.0
+Target
+1    0.508102
+0    0.491898
+Name: count, dtype: float64
+Predictions
+0.0    5137
+1.0      47
+Name: count, dtype: int64
+0.0
+
+
+45 AIZ 0.5675675675675675 0.0
+Target
+1    0.54205
+0    0.45795
+Name: count, dtype: float64
+Predictions
+0.0    1555
+1.0      74
+Name: count, dtype: int64
+0.0
+
+
+46 T 0.6078431372549019 0.0
+Target
+1    0.515818
+0    0.484182
+Name: count, dtype: float64
+Predictions
+0.0    5082
+1.0     102
+Name: count, dtype: int64
+0.0
+
+
+47 ATO 0.5686274509803921 0.0
+Target
+1    0.522762
+0    0.477238
+Name: count, dtype: float64
+Predictions
+0.0    5082
+1.0     102
+Name: count, dtype: int64
+0.0
+
+
+48 ADSK 0.54375 0.0
+Target
+1    0.521412
+0    0.478588
+Name: count, dtype: float64
+Predictions
+0.0    5024
+1.0     160
+Name: count, dtype: int64
+0.0
+
+
+49 AZO 0.5164473684210527 0.0
+Target
+1    0.524748
+0    0.475252
+Name: count, dtype: float64
+Predictions
+0.0    4565
+1.0     304
+Name: count, dtype: int64
+0.0
+
+
+50 AVB 0.5431034482758621 0.0
+Target
+1    0.526801
+0    0.473199
+Name: count, dtype: float64
+Predictions
+0.0    3891
+1.0     232
+Name: count, dtype: int64
+0.0
+
+
+51 AVY 0.5277777777777778 0.0
+Target
+1    0.521026
+0    0.478974
+Name: count, dtype: float64
+Predictions
+0.0    5004
+1.0     180
+Name: count, dtype: int64
+0.0
+
+
+52 BKR 0.5512820512820513 0.0
+Target
+1    0.509066
+0    0.490934
+Name: count, dtype: float64
+Predictions
+0.0    5028
+1.0     156
+Name: count, dtype: int64
+0.0
+
+
+53 BALL 0.5588235294117647 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    5116
+1.0      68
+Name: count, dtype: int64
+0.0
+
+
+54 BAC 0.554140127388535 0.0
+Target
+1    0.501929
+0    0.498071
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+55 BBWI 0.5373134328358209 0.0
+Target
+1    0.503279
+0    0.496721
+Name: count, dtype: float64
+Predictions
+0.0    5117
+1.0      67
+Name: count, dtype: int64
+0.0
+
+
+56 BAX 0.4444444444444444 0.0
+Target
+1    0.518904
+0    0.481096
+Name: count, dtype: float64
+Predictions
+0.0    5067
+1.0     117
+Name: count, dtype: int64
+0.0
+
+
+57 BDX 0.5816618911174785 0.0
+Target
+1    0.529321
+0    0.470679
+Name: count, dtype: float64
+Predictions
+0.0    4835
+1.0     349
+Name: count, dtype: int64
+0.0
+
+
+58 WRB 0.5681818181818182 0.0
+Target
+1    0.523534
+0    0.476466
+Name: count, dtype: float64
+Predictions
+0.0    5052
+1.0     132
+Name: count, dtype: int64
+0.0
+
+
+$BRK.B: possibly delisted; No timezone found
+59 BBY 0.44761904761904764 0.0
+Target
+1    0.514853
+0    0.485147
+Name: count, dtype: float64
+Predictions
+0.0    5079
+1.0     105
+Name: count, dtype: int64
+0.0
+
+
+60 BIO 0.5070422535211268 0.0
+Target
+1    0.51061
+0    0.48939
+Name: count, dtype: float64
+Predictions
+0.0    5042
+1.0     142
+Name: count, dtype: int64
+0.0
+
+
+61 TECH 0.4782608695652174 0.0
+Target
+1    0.515046
+0    0.484954
+Name: count, dtype: float64
+Predictions
+0.0    5069
+1.0     115
+Name: count, dtype: int64
+0.0
+
+
+62 BIIB 0.5132275132275133 0.0
+Target
+1    0.504419
+0    0.495581
+Name: count, dtype: float64
+Predictions
+0.0    4563
+1.0     189
+Name: count, dtype: int64
+0.0
+
+
+63 BLK 0.5081967213114754 0.0
+Target
+1    0.525368
+0    0.474632
+Name: count, dtype: float64
+Predictions
+0.0    2659
+1.0      61
+Name: count, dtype: int64
+0.0
+
+
+64 BK 0.54421768707483 0.0
+Target
+1    0.513503
+0    0.486497
+Name: count, dtype: float64
+Predictions
+0.0    5037
+1.0     147
+Name: count, dtype: int64
+0.0
+
+
+65 BA 0.5052631578947369 0.0
+Target
+1    0.514853
+0    0.485147
+Name: count, dtype: float64
+Predictions
+0.0    5089
+1.0      95
+Name: count, dtype: int64
+0.0
+
+
+66 BKNG 0.5227272727272727 0.0
+Target
+1    0.527388
+0    0.472612
+Name: count, dtype: float64
+Predictions
+0.0    2760
+1.0      88
+Name: count, dtype: int64
+0.0
+
+
+67 BWA 0.5096774193548387 0.0
+Target
+1    0.50691
+0    0.49309
+Name: count, dtype: float64
+Predictions
+0.0    4114
+1.0     155
+Name: count, dtype: int64
+0.0
+
+
+68 BXP 0.5111731843575419 0.0
+Target
+1    0.509554
+0    0.490446
+Name: count, dtype: float64
+Predictions
+0.0    2939
+1.0     358
+Name: count, dtype: int64
+0.0
+
+
+69 BSX 0.514018691588785 0.0
+Target
+1    0.500655
+0    0.499345
+Name: count, dtype: float64
+Predictions
+0.0    4475
+1.0     107
+Name: count, dtype: int64
+0.0
+
+
+70 BMY 0.47126436781609193 0.0
+Target
+1    0.507137
+0    0.492863
+Name: count, dtype: float64
+Predictions
+0.0    5097
+1.0      87
+Name: count, dtype: int64
+0.0
+
+
+71 AVGO 0.5454545454545454 0.0
+Target
+1    0.536885
+0    0.463115
+Name: count, dtype: float64
+Predictions
+0.0    233
+1.0     11
+Name: count, dtype: int64
+0.0
+
+
+72 BR 0.5671641791044776 0.0
+Target
+1    0.519573
+0    0.480427
+Name: count, dtype: float64
+Predictions
+0.0    642
+1.0    201
+Name: count, dtype: int64
+0.0
+
+
+73 BRO 0.5195530726256983 0.0
+Target
+1    0.522377
+0    0.477623
+Name: count, dtype: float64
+Predictions
+0.0    4826
+1.0     358
+Name: count, dtype: int64
+0.0
+
+
+$BF.B: possibly delisted; No price data found  (1d 1925-07-17 -> 2024-06-23)
+$BF.B: possibly delisted; No price data found  (1d 1925-07-17 -> 2024-06-23)
+74 CHRW 0.6354166666666666 0.0
+Target
+1    0.532524
+0    0.467476
+Name: count, dtype: float64
+Predictions
+0.0    3021
+1.0     192
+Name: count, dtype: int64
+0.0
+
+
+75 CDNS 0.5756457564575646 0.0
+Target
+1    0.51794
+0    0.48206
+Name: count, dtype: float64
+Predictions
+0.0    4913
+1.0     271
+Name: count, dtype: int64
+0.0
+
+
+76 CPT 0.522911051212938 0.0
+Target
+1    0.525554
+0    0.474446
+Name: count, dtype: float64
+Predictions
+0.0    3914
+1.0     371
+Name: count, dtype: int64
+0.0
+
+
+77 CPB 0.5401459854014599 0.0
+Target
+1    0.513889
+0    0.486111
+Name: count, dtype: float64
+Predictions
+0.0    5047
+1.0     137
+Name: count, dtype: int64
+0.0
+
+
+78 COF 0.47580645161290325 0.0
+Target
+1    0.511392
+0    0.488608
+Name: count, dtype: float64
+Predictions
+0.0    3826
+1.0     124
+Name: count, dtype: int64
+0.0
+
+
+79 CAH 0.5443786982248521 0.0
+Target
+1    0.517747
+0    0.482253
+Name: count, dtype: float64
+Predictions
+0.0    5015
+1.0     169
+Name: count, dtype: int64
+0.0
+
+
+80 KMX 0.48484848484848486 0.0
+Target
+1    0.511799
+0    0.488201
+Name: count, dtype: float64
+Predictions
+0.0    3357
+1.0      33
+Name: count, dtype: int64
+0.0
+
+
+81 CCL 0.545 0.0
+Target
+1    0.50463
+0    0.49537
+Name: count, dtype: float64
+Predictions
+0.0    4984
+1.0     200
+Name: count, dtype: int64
+0.0
+
+
+82 CAT 0.5648148148148148 0.0
+Target
+1    0.519869
+0    0.480131
+Name: count, dtype: float64
+Predictions
+0.0    5076
+1.0     108
+Name: count, dtype: int64
+0.0
+
+
+83 CBOE 0.5 0.0
+Target
+0    0.586207
+1    0.413793
+Name: count, dtype: float64
+Predictions
+0.0    27
+1.0     2
+Name: count, dtype: int64
+0.0
+
+
+84 CBRE 0.576271186440678 0.0
+Target
+1    0.51297
+0    0.48703
+Name: count, dtype: float64
+Predictions
+0.0    1483
+1.0      59
+Name: count, dtype: int64
+0.0
+
+
+85 CE 0.43010752688172044 0.0
+Target
+1    0.51478
+0    0.48522
+Name: count, dtype: float64
+Predictions
+0.0    1294
+1.0      93
+Name: count, dtype: int64
+0.0
+
+
+86 CNC 0.5263157894736842 0.0
+Target
+1    0.512454
+0    0.487546
+Name: count, dtype: float64
+Predictions
+0.0    2073
+1.0      95
+Name: count, dtype: int64
+0.0
+
+
+87 CNP 0.5333333333333333 0.0
+Target
+1    0.522377
+0    0.477623
+Name: count, dtype: float64
+Predictions
+0.0    5109
+1.0      75
+Name: count, dtype: int64
+0.0
+
+
+$CDAY: possibly delisted; No timezone found
+$CERN: possibly delisted; No timezone found
+88 CF 0.2 0.0
+Target
+1    0.502005
+0    0.497995
+Name: count, dtype: float64
+Predictions
+0.0    1242
+1.0       5
+Name: count, dtype: int64
+0.0
+
+
+89 CRL 0.5 0.0
+Target
+1    0.529968
+0    0.470032
+Name: count, dtype: float64
+Predictions
+0.0    2506
+1.0      30
+Name: count, dtype: int64
+0.0
+
+
+90 SCHW 0.4716981132075472 0.0
+Target
+0    0.500386
+1    0.499614
+Name: count, dtype: float64
+Predictions
+0.0    5078
+1.0     106
+Name: count, dtype: int64
+0.0
+
+
+91 CHTR 0.4329896907216495 0.0
+Target
+0    0.542857
+1    0.457143
+Name: count, dtype: float64
+Predictions
+1.0    97
+0.0    43
+Name: count, dtype: int64
+0.0
+
+
+92 CVX 0.5013623978201635 0.0
+Target
+1    0.527971
+0    0.472029
+Name: count, dtype: float64
+Predictions
+0.0    4817
+1.0     367
+Name: count, dtype: int64
+0.0
+
+
+93 CMG 0.52 0.0
+Target
+1    0.534452
+0    0.465548
+Name: count, dtype: float64
+Predictions
+0.0    1107
+1.0      25
+Name: count, dtype: int64
+0.0
+
+
+94 CB 0.5978260869565217 0.0
+Target
+1    0.526677
+0    0.473323
+Name: count, dtype: float64
+Predictions
+0.0    4091
+1.0     276
+Name: count, dtype: int64
+0.0
+
+
+95 CHD 0.5413793103448276 0.0
+Target
+1    0.534336
+0    0.465664
+Name: count, dtype: float64
+Predictions
+0.0    4894
+1.0     290
+Name: count, dtype: int64
+0.0
+
+
+96 CI 0.6057692307692307 0.0
+Target
+1    0.524691
+0    0.475309
+Name: count, dtype: float64
+Predictions
+0.0    4976
+1.0     208
+Name: count, dtype: int64
+0.0
+
+
+97 CINF 0.5418994413407822 0.0
+Target
+1    0.520448
+0    0.479552
+Name: count, dtype: float64
+Predictions
+0.0    5005
+1.0     179
+Name: count, dtype: int64
+0.0
+
+
+98 CTAS 0.5398230088495575 0.0
+Target
+1    0.536844
+0    0.463156
+Name: count, dtype: float64
+Predictions
+0.0    4845
+1.0     339
+Name: count, dtype: int64
+0.0
+
+
+99 CSCO 0.4965034965034965 0.0
+Target
+1    0.511939
+0    0.488061
+Name: count, dtype: float64
+Predictions
+0.0    5008
+1.0     143
+Name: count, dtype: int64
+0.0
+
+
+100 C 0.48559670781893005 0.0
+Target
+0    0.50463
+1    0.49537
+Name: count, dtype: float64
+Predictions
+0.0    4941
+1.0     243
+Name: count, dtype: int64
+0.0
+
+
+$CTXS: possibly delisted; No timezone found
+101 CLX 0.5912408759124088 0.0
+Target
+1    0.528549
+0    0.471451
+Name: count, dtype: float64
+Predictions
+0.0    4910
+1.0     274
+Name: count, dtype: int64
+0.0
+
+
+102 CME 0.5694444444444444 0.0
+Target
+1    0.529412
+0    0.470588
+Name: count, dtype: float64
+Predictions
+0.0    1849
+1.0      72
+Name: count, dtype: int64
+0.0
+
+
+103 CMS 0.5 0.0
+Target
+1    0.531636
+0    0.468364
+Name: count, dtype: float64
+Predictions
+0.0    4984
+1.0     200
+Name: count, dtype: int64
+0.0
+
+
+104 KO 0.5189873417721519 0.0
+Target
+1    0.523341
+0    0.476659
+Name: count, dtype: float64
+Predictions
+0.0    5105
+1.0      79
+Name: count, dtype: int64
+0.0
+
+
+105 CTSH 0.6095238095238096 0.0
+Target
+1    0.509198
+0    0.490802
+Name: count, dtype: float64
+Predictions
+0.0    2939
+1.0     105
+Name: count, dtype: int64
+0.0
+
+
+106 CL 0.6612903225806451 0.0
+Target
+1    0.512539
+0    0.487461
+Name: count, dtype: float64
+Predictions
+0.0    5122
+1.0      62
+Name: count, dtype: int64
+0.0
+
+
+107 CMCSA 0.5428571428571428 0.0
+Target
+1    0.508102
+0    0.491898
+Name: count, dtype: float64
+Predictions
+0.0    5079
+1.0     105
+Name: count, dtype: int64
+0.0
+
+
+108 CMA 0.55 0.0
+Target
+1    0.505594
+0    0.494406
+Name: count, dtype: float64
+Predictions
+0.0    5084
+1.0     100
+Name: count, dtype: int64
+0.0
+
+
+109 CAG 0.3783783783783784 0.0
+Target
+1    0.505594
+0    0.494406
+Name: count, dtype: float64
+Predictions
+0.0    5147
+1.0      37
+Name: count, dtype: int64
+0.0
+
+
+110 COP 0.5186170212765957 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    4808
+1.0     376
+Name: count, dtype: int64
+0.0
+
+
+111 ED 0.5303030303030303 0.0
+Target
+1    0.532407
+0    0.467593
+Name: count, dtype: float64
+Predictions
+0.0    4986
+1.0     198
+Name: count, dtype: int64
+0.0
+
+
+112 STZ 0.49246231155778897 0.0
+Target
+1    0.517077
+0    0.482923
+Name: count, dtype: float64
+Predictions
+0.0    4427
+1.0     199
+Name: count, dtype: int64
+0.0
+
+
+113 COO 0.4779874213836478 0.0
+Target
+1    0.515432
+0    0.484568
+Name: count, dtype: float64
+Predictions
+0.0    5025
+1.0     159
+Name: count, dtype: int64
+0.0
+
+
+114 CPRT 0.529126213592233 0.0
+Target
+1    0.529497
+0    0.470503
+Name: count, dtype: float64
+Predictions
+0.0    3913
+1.0     206
+Name: count, dtype: int64
+0.0
+
+
+115 GLW 0.25 0.0
+Target
+1    0.506944
+0    0.493056
+Name: count, dtype: float64
+Predictions
+0.0    5176
+1.0       8
+Name: count, dtype: int64
+0.0
+
+
+116 COST 0.5211267605633803 0.0
+Target
+1    0.527006
+0    0.472994
+Name: count, dtype: float64
+Predictions
+0.0    5042
+1.0     142
+Name: count, dtype: int64
+0.0
+
+
+117 CTRA 0.5327868852459017 0.0
+Target
+1    0.506496
+0    0.493504
+Name: count, dtype: float64
+Predictions
+0.0    4913
+1.0     244
+Name: count, dtype: int64
+0.0
+
+
+118 CCI 0.5422535211267606 0.0
+Target
+1    0.520147
+0    0.479853
+Name: count, dtype: float64
+Predictions
+0.0    2861
+1.0     142
+Name: count, dtype: int64
+0.0
+
+
+119 CSX 0.4722222222222222 0.0
+Target
+1    0.519869
+0    0.480131
+Name: count, dtype: float64
+Predictions
+0.0    5076
+1.0     108
+Name: count, dtype: int64
+0.0
+
+
+120 CMI 0.5925925925925926 0.0
+Target
+1    0.517747
+0    0.482253
+Name: count, dtype: float64
+Predictions
+0.0    5157
+1.0      27
+Name: count, dtype: int64
+0.0
+
+
+121 CVS 0.4605263157894737 0.0
+Target
+1    0.510995
+0    0.489005
+Name: count, dtype: float64
+Predictions
+0.0    5108
+1.0      76
+Name: count, dtype: int64
+0.0
+
+
+122 DHI 0.5142857142857142 0.0
+Target
+1    0.501532
+0    0.498468
+Name: count, dtype: float64
+Predictions
+0.0    4430
+1.0     140
+Name: count, dtype: int64
+0.0
+
+
+123 DHR 0.5309278350515464 0.0
+Target
+1    0.522762
+0    0.477238
+Name: count, dtype: float64
+Predictions
+0.0    4990
+1.0     194
+Name: count, dtype: int64
+0.0
+
+
+124 DRI 0.5294117647058824 0.0
+Target
+1    0.522318
+0    0.477682
+Name: count, dtype: float64
+Predictions
+0.0    3712
+1.0     119
+Name: count, dtype: int64
+0.0
+
+
+125 DVA 0.5925925925925926 0.0
+Target
+1    0.523591
+0    0.476409
+Name: count, dtype: float64
+Predictions
+0.0    3628
+1.0      81
+Name: count, dtype: int64
+0.0
+
+
+126 DE 0.5527950310559007 0.0
+Target
+1    0.52064
+0    0.47936
+Name: count, dtype: float64
+Predictions
+0.0    5023
+1.0     161
+Name: count, dtype: int64
+0.0
+
+
+127 DAL 0.5641025641025641 0.0
+Target
+1    0.504914
+0    0.495086
+Name: count, dtype: float64
+Predictions
+0.0    775
+1.0     39
+Name: count, dtype: int64
+0.0
+
+
+128 XRAY 0.49137931034482757 0.0
+Target
+1    0.513889
+0    0.486111
+Name: count, dtype: float64
+Predictions
+0.0    4952
+1.0     232
+Name: count, dtype: int64
+0.0
+
+
+129 DVN 0.5757575757575758 0.0
+Target
+1    0.508873
+0    0.491127
+Name: count, dtype: float64
+Predictions
+0.0    4755
+1.0     429
+Name: count, dtype: int64
+0.0
+
+
+130 DXCM 0.4090909090909091 0.0
+Target
+1    0.533835
+0    0.466165
+Name: count, dtype: float64
+Predictions
+0.0    1286
+1.0      44
+Name: count, dtype: int64
+0.0
+
+
+131 DLR 0.5444839857651246 0.0
+Target
+1    0.529086
+0    0.470914
+Name: count, dtype: float64
+Predictions
+0.0    1163
+1.0     281
+Name: count, dtype: int64
+0.0
+
+
+132 DFS 0.4691358024691358 1.0
+Target
+1    0.523567
+0    0.476433
+Name: count, dtype: float64
+Predictions
+0.0    704
+1.0     81
+Name: count, dtype: int64
+1.0
+
+
+$DISH: possibly delisted; No timezone found
+133 DIS 0.5120481927710844 0.0
+Target
+1    0.511767
+0    0.488233
+Name: count, dtype: float64
+Predictions
+0.0    5018
+1.0     166
+Name: count, dtype: int64
+0.0
+
+
+C:\Users\User\PycharmProjects\tradingbot\venv\Lib\site-packages\sklearn\metrics\_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+134 DG 0.0 0.0
+Target
+1    0.528736
+0    0.471264
+Name: count, dtype: float64
+Predictions
+0.0    174
+Name: count, dtype: int64
+0.0
+
+
+135 DLTR 0.4578313253012048 0.0
+Target
+1    0.513806
+0    0.486194
+Name: count, dtype: float64
+Predictions
+0.0    3792
+1.0      83
+Name: count, dtype: int64
+0.0
+
+
+136 D 0.54337899543379 0.0
+Target
+1    0.515625
+0    0.484375
+Name: count, dtype: float64
+Predictions
+0.0    4965
+1.0     219
+Name: count, dtype: int64
+0.0
+
+
+137 DPZ 0.5263157894736842 0.0
+Target
+1    0.512821
+0    0.487179
+Name: count, dtype: float64
+Predictions
+0.0    1350
+1.0     171
+Name: count, dtype: int64
+0.0
+
+
+138 DOV 0.5185185185185185 0.0
+Target
+1    0.521026
+0    0.478974
+Name: count, dtype: float64
+Predictions
+0.0    5076
+1.0     108
+Name: count, dtype: int64
+0.0
+
+
+139 DTE 0.5302325581395348 0.0
+Target
+1    0.538002
+0    0.461998
+Name: count, dtype: float64
+Predictions
+0.0    4969
+1.0     215
+Name: count, dtype: int64
+0.0
+
+
+140 DUK 0.6237623762376238 0.0
+Target
+1    0.524113
+0    0.475887
+Name: count, dtype: float64
+Predictions
+0.0    5083
+1.0     101
+Name: count, dtype: int64
+0.0
+
+
+$DRE: possibly delisted; No timezone found
+141 DD 0.6206896551724138 0.0
+Target
+1    0.505208
+0    0.494792
+Name: count, dtype: float64
+Predictions
+0.0    5155
+1.0      29
+Name: count, dtype: int64
+0.0
+
+
+142 DXC 0.4701492537313433 0.0
+Target
+1    0.514468
+0    0.485532
+Name: count, dtype: float64
+Predictions
+0.0    5050
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+143 EMN 0.5357142857142857 0.0
+Target
+1    0.514101
+0    0.485899
+Name: count, dtype: float64
+Predictions
+0.0    4100
+1.0      84
+Name: count, dtype: int64
+0.0
+
+
+144 ETN 0.6867469879518072 0.0
+Target
+1    0.521219
+0    0.478781
+Name: count, dtype: float64
+Predictions
+0.0    5101
+1.0      83
+Name: count, dtype: int64
+0.0
+
+
+145 EBAY 0.5490196078431373 0.0
+Target
+1    0.516963
+0    0.483037
+Name: count, dtype: float64
+Predictions
+0.0    2926
+1.0      51
+Name: count, dtype: int64
+0.0
+
+
+146 ECL 0.560126582278481 0.0
+Target
+1    0.52392
+0    0.47608
+Name: count, dtype: float64
+Predictions
+0.0    4868
+1.0     316
+Name: count, dtype: int64
+0.0
+
+
+147 EIX 0.5609756097560976 0.0
+Target
+1    0.521026
+0    0.478974
+Name: count, dtype: float64
+Predictions
+0.0    4938
+1.0     246
+Name: count, dtype: int64
+0.0
+
+
+148 EW 0.5033112582781457 0.0
+Target
+1    0.526559
+0    0.473441
+Name: count, dtype: float64
+Predictions
+0.0    2447
+1.0     151
+Name: count, dtype: int64
+0.0
+
+
+149 EA 0.4959349593495935 0.0
+Target
+1    0.50598
+0    0.49402
+Name: count, dtype: float64
+Predictions
+0.0    5061
+1.0     123
+Name: count, dtype: int64
+0.0
+
+
+150 EMR 0.514018691588785 0.0
+Target
+1    0.517168
+0    0.482832
+Name: count, dtype: float64
+Predictions
+0.0    5077
+1.0     107
+Name: count, dtype: int64
+0.0
+
+
+151 ETR 0.5137614678899083 0.0
+Target
+1    0.518904
+0    0.481096
+Name: count, dtype: float64
+Predictions
+0.0    4966
+1.0     218
+Name: count, dtype: int64
+0.0
+
+
+152 EOG 0.4957627118644068 0.0
+Target
+1    0.513889
+0    0.486111
+Name: count, dtype: float64
+Predictions
+0.0    4948
+1.0     236
+Name: count, dtype: int64
+0.0
+
+
+153 EFX 0.58 0.0
+Target
+1    0.525849
+0    0.474151
+Name: count, dtype: float64
+Predictions
+0.0    5084
+1.0     100
+Name: count, dtype: int64
+0.0
+
+
+154 EQIX 0.583710407239819 0.0
+Target
+1    0.531974
+0    0.468026
+Name: count, dtype: float64
+Predictions
+0.0    2281
+1.0     221
+Name: count, dtype: int64
+0.0
+
+
+155 EQR 0.5666666666666667 0.0
+Target
+1    0.519204
+0    0.480796
+Name: count, dtype: float64
+Predictions
+0.0    4090
+1.0     180
+Name: count, dtype: int64
+0.0
+
+
+156 ESS 0.5669014084507042 0.0
+Target
+1    0.533219
+0    0.466781
+Name: count, dtype: float64
+Predictions
+0.0    3780
+1.0     284
+Name: count, dtype: int64
+0.0
+
+
+157 EL 0.5167785234899329 0.0
+Target
+1    0.519751
+0    0.480249
+Name: count, dtype: float64
+Predictions
+0.0    3547
+1.0     149
+Name: count, dtype: int64
+0.0
+
+
+$RE: possibly delisted; No timezone found
+158 EVRG 0.5089820359281437 0.0
+Target
+1    0.524884
+0    0.475116
+Name: count, dtype: float64
+Predictions
+0.0    5017
+1.0     167
+Name: count, dtype: int64
+0.0
+
+
+159 ES 0.5181159420289855 0.0
+Target
+1    0.524498
+0    0.475502
+Name: count, dtype: float64
+Predictions
+0.0    4908
+1.0     276
+Name: count, dtype: int64
+0.0
+
+
+160 EXC 0.5 0.0
+Target
+1    0.517168
+0    0.482832
+Name: count, dtype: float64
+Predictions
+0.0    5052
+1.0     132
+Name: count, dtype: int64
+0.0
+
+
+161 EXPE 0.48695652173913045 0.0
+Target
+1    0.510301
+0    0.489699
+Name: count, dtype: float64
+Predictions
+0.0    1147
+1.0     115
+Name: count, dtype: int64
+0.0
+
+
+162 EXPD 0.5518072289156627 0.0
+Target
+1    0.516204
+0    0.483796
+Name: count, dtype: float64
+Predictions
+0.0    4769
+1.0     415
+Name: count, dtype: int64
+0.0
+
+
+163 EXR 0.5555555555555556 0.0
+Target
+1    0.519706
+0    0.480294
+Name: count, dtype: float64
+Predictions
+0.0    1407
+1.0      90
+Name: count, dtype: int64
+0.0
+
+
+164 XOM 0.5304054054054054 0.0
+Target
+1    0.511767
+0    0.488233
+Name: count, dtype: float64
+Predictions
+0.0    4888
+1.0     296
+Name: count, dtype: int64
+0.0
+
+
+165 FFIV 0.475 0.0
+Target
+1    0.523725
+0    0.476275
+Name: count, dtype: float64
+Predictions
+0.0    2723
+1.0      80
+Name: count, dtype: int64
+0.0
+
+
+166 FDS 0.5776699029126213 0.0
+Target
+1    0.551101
+0    0.448899
+Name: count, dtype: float64
+Predictions
+0.0    3336
+1.0     206
+Name: count, dtype: int64
+0.0
+
+
+167 FAST 0.6024096385542169 0.0
+Target
+1    0.519097
+0    0.480903
+Name: count, dtype: float64
+Predictions
+0.0    5101
+1.0      83
+Name: count, dtype: int64
+0.0
+
+
+168 FRT 0.5645161290322581 0.0
+Target
+1    0.521026
+0    0.478974
+Name: count, dtype: float64
+Predictions
+0.0    4626
+1.0     558
+Name: count, dtype: int64
+0.0
+
+
+169 FDX 0.4666666666666667 0.0
+Target
+1    0.508873
+0    0.491127
+Name: count, dtype: float64
+Predictions
+0.0    5139
+1.0      45
+Name: count, dtype: int64
+0.0
+
+
+170 FITB 0.48826291079812206 0.0
+Target
+1    0.506944
+0    0.493056
+Name: count, dtype: float64
+Predictions
+0.0    4971
+1.0     213
+Name: count, dtype: int64
+0.0
+
+
+$FRC: possibly delisted; No timezone found
+171 FE 0.5355450236966824 0.0
+Target
+1    0.52378
+0    0.47622
+Name: count, dtype: float64
+Predictions
+0.0    2985
+1.0     211
+Name: count, dtype: int64
+0.0
+
+
+172 FIS 0.5505050505050505 0.0
+Target
+1    0.528203
+0    0.471797
+Name: count, dtype: float64
+Predictions
+0.0    2089
+1.0     198
+Name: count, dtype: int64
+0.0
+
+
+$FLT: possibly delisted; No timezone found
+173 FMC 0.5378151260504201 0.0
+Target
+1    0.510417
+0    0.489583
+Name: count, dtype: float64
+Predictions
+0.0    5065
+1.0     119
+Name: count, dtype: int64
+0.0
+
+
+174 F 0.5 0.0
+Target
+0    0.511574
+1    0.488426
+Name: count, dtype: float64
+Predictions
+0.0    5158
+1.0      26
+Name: count, dtype: int64
+0.0
+
+
+175 FTNT 0.2 0.0
+Target
+1    0.54386
+0    0.45614
+Name: count, dtype: float64
+Predictions
+0.0    166
+1.0      5
+Name: count, dtype: int64
+0.0
+
+
+$FBHS: possibly delisted; No timezone found
+176 BEN 0.5480769230769231 0.0
+Target
+1    0.515625
+0    0.484375
+Name: count, dtype: float64
+Predictions
+0.0    5080
+1.0     104
+Name: count, dtype: int64
+0.0
+
+
+177 FCX 0.46774193548387094 0.0
+Target
+0    0.503563
+1    0.496437
+Name: count, dtype: float64
+Predictions
+0.0    3665
+1.0     124
+Name: count, dtype: int64
+0.0
+
+
+178 AJG 0.5811965811965812 0.0
+Target
+1    0.536651
+0    0.463349
+Name: count, dtype: float64
+Predictions
+0.0    4833
+1.0     351
+Name: count, dtype: int64
+0.0
+
+
+179 GRMN 0.5 0.0
+Target
+1    0.52377
+0    0.47623
+Name: count, dtype: float64
+Predictions
+0.0    2387
+1.0      32
+Name: count, dtype: int64
+0.0
+
+
+180 IT 0.613013698630137 0.0
+Target
+1    0.542641
+0    0.457359
+Name: count, dtype: float64
+Predictions
+0.0    3941
+1.0     292
+Name: count, dtype: int64
+0.0
+
+
+181 GE 0.5371900826446281 0.0
+Target
+0    0.501543
+1    0.498457
+Name: count, dtype: float64
+Predictions
+0.0    5063
+1.0     121
+Name: count, dtype: int64
+0.0
+
+
+182 GNRC 0.6428571428571429 0.0
+Target
+1    0.561404
+0    0.438596
+Name: count, dtype: float64
+Predictions
+0.0    100
+1.0     14
+Name: count, dtype: int64
+0.0
+
+
+183 GD 0.5185185185185185 0.0
+Target
+1    0.524113
+0    0.475887
+Name: count, dtype: float64
+Predictions
+0.0    5022
+1.0     162
+Name: count, dtype: int64
+0.0
+
+
+184 GIS 0.6074766355140186 0.0
+Target
+1    0.524884
+0    0.475116
+Name: count, dtype: float64
+Predictions
+0.0    4970
+1.0     214
+Name: count, dtype: int64
+0.0
+
+
+185 GPC 0.5771428571428572 0.0
+Target
+1    0.524691
+0    0.475309
+Name: count, dtype: float64
+Predictions
+0.0    5009
+1.0     175
+Name: count, dtype: int64
+0.0
+
+
+186 GILD 0.5413223140495868 0.0
+Target
+1    0.513293
+0    0.486707
+Name: count, dtype: float64
+Predictions
+0.0    4422
+1.0     242
+Name: count, dtype: int64
+0.0
+
+
+187 GL 0.549800796812749 0.0
+Target
+1    0.530285
+0    0.469715
+Name: count, dtype: float64
+Predictions
+0.0    4933
+1.0     251
+Name: count, dtype: int64
+0.0
+
+
+188 GPN 0.5176470588235295 0.0
+Target
+1    0.530689
+0    0.469311
+Name: count, dtype: float64
+Predictions
+0.0    2225
+1.0     170
+Name: count, dtype: int64
+0.0
+
+
+189 GS 0.4888888888888889 0.0
+Target
+1    0.517876
+0    0.482124
+Name: count, dtype: float64
+Predictions
+0.0    2690
+1.0     135
+Name: count, dtype: int64
+0.0
+
+
+190 GWW 0.5106382978723404 0.0
+Target
+1    0.526427
+0    0.473573
+Name: count, dtype: float64
+Predictions
+0.0    5090
+1.0      94
+Name: count, dtype: int64
+0.0
+
+
+191 HAL 0.5526315789473685 0.0
+Target
+1    0.507716
+0    0.492284
+Name: count, dtype: float64
+Predictions
+0.0    5108
+1.0      76
+Name: count, dtype: int64
+0.0
+
+
+192 HIG 0.5338345864661654 0.0
+Target
+1    0.52842
+0    0.47158
+Name: count, dtype: float64
+Predictions
+0.0    3544
+1.0     133
+Name: count, dtype: int64
+0.0
+
+
+193 HAS 0.5344827586206896 0.0
+Target
+1    0.512346
+0    0.487654
+Name: count, dtype: float64
+Predictions
+0.0    5126
+1.0      58
+Name: count, dtype: int64
+0.0
+
+
+$PEAK: possibly delisted; No timezone found
+194 HSIC 0.5687022900763359 0.0
+Target
+1    0.522396
+0    0.477604
+Name: count, dtype: float64
+Predictions
+0.0    3444
+1.0     262
+Name: count, dtype: int64
+0.0
+
+
+195 HSY 0.5230769230769231 0.0
+Target
+1    0.514082
+0    0.485918
+Name: count, dtype: float64
+Predictions
+0.0    5054
+1.0     130
+Name: count, dtype: int64
+0.0
+
+
+196 HES 0.5560165975103735 0.0
+Target
+1    0.518519
+0    0.481481
+Name: count, dtype: float64
+Predictions
+0.0    4943
+1.0     241
+Name: count, dtype: int64
+0.0
+
+
+197 HOLX 0.625 0.0
+Target
+1    0.514875
+0    0.485125
+Name: count, dtype: float64
+Predictions
+0.0    5063
+1.0      80
+Name: count, dtype: int64
+0.0
+
+
+198 HD 0.5042016806722689 0.0
+Target
+1    0.520833
+0    0.479167
+Name: count, dtype: float64
+Predictions
+0.0    5065
+1.0     119
+Name: count, dtype: int64
+0.0
+
+
+199 HON 0.5411764705882353 0.0
+Target
+1    0.526042
+0    0.473958
+Name: count, dtype: float64
+Predictions
+0.0    5099
+1.0      85
+Name: count, dtype: int64
+0.0
+
+
+200 HRL 0.5048076923076923 0.0
+Target
+1    0.523341
+0    0.476659
+Name: count, dtype: float64
+Predictions
+0.0    4768
+1.0     416
+Name: count, dtype: int64
+0.0
+
+
+201 HST 0.5275590551181102 0.0
+Target
+1    0.508873
+0    0.491127
+Name: count, dtype: float64
+Predictions
+0.0    5057
+1.0     127
+Name: count, dtype: int64
+0.0
+
+
+202 HPQ 0.4470588235294118 0.0
+Target
+1    0.517554
+0    0.482446
+Name: count, dtype: float64
+Predictions
+0.0    5099
+1.0      85
+Name: count, dtype: int64
+0.0
+
+
+203 HUM 0.5159235668789809 0.0
+Target
+1    0.515625
+0    0.484375
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+204 HBAN 0.5403726708074534 0.0
+Target
+0    0.506173
+1    0.493827
+Name: count, dtype: float64
+Predictions
+0.0    5023
+1.0     161
+Name: count, dtype: int64
+0.0
+
+
+205 IEX 0.5792682926829268 0.0
+Target
+1    0.527778
+0    0.472222
+Name: count, dtype: float64
+Predictions
+0.0    5020
+1.0     164
+Name: count, dtype: int64
+0.0
+
+
+206 IDXX 0.515625 1.0
+Target
+1    0.543017
+0    0.456983
+Name: count, dtype: float64
+Predictions
+0.0    4684
+1.0     128
+Name: count, dtype: int64
+1.0
+
+
+207 ITW 0.5507246376811594 0.0
+Target
+1    0.5299
+0    0.4701
+Name: count, dtype: float64
+Predictions
+0.0    5115
+1.0      69
+Name: count, dtype: int64
+0.0
+
+
+208 ILMN 0.5112781954887218 0.0
+Target
+1    0.504777
+0    0.495223
+Name: count, dtype: float64
+Predictions
+0.0    2246
+1.0     266
+Name: count, dtype: int64
+0.0
+
+
+209 INCY 0.4782608695652174 0.0
+Target
+0    0.504156
+1    0.495844
+Name: count, dtype: float64
+Predictions
+0.0    4188
+1.0      23
+Name: count, dtype: int64
+0.0
+
+
+210 INTC 0.525 0.0
+Target
+1    0.510802
+0    0.489198
+Name: count, dtype: float64
+Predictions
+0.0    5144
+1.0      40
+Name: count, dtype: int64
+0.0
+
+
+211 ICE 0.4911242603550296 0.0
+Target
+1    0.515691
+0    0.484309
+Name: count, dtype: float64
+Predictions
+0.0    1010
+1.0     169
+Name: count, dtype: int64
+0.0
+
+
+212 IBM 0.43137254901960786 0.0
+Target
+1    0.515818
+0    0.484182
+Name: count, dtype: float64
+Predictions
+0.0    5133
+1.0      51
+Name: count, dtype: int64
+0.0
+
+
+213 IP 0.4909090909090909 0.0
+Target
+1    0.510224
+0    0.489776
+Name: count, dtype: float64
+Predictions
+0.0    5129
+1.0      55
+Name: count, dtype: int64
+0.0
+
+
+214 IPG 0.48672566371681414 0.0
+Target
+1    0.500386
+0    0.499614
+Name: count, dtype: float64
+Predictions
+0.0    5071
+1.0     113
+Name: count, dtype: int64
+0.0
+
+
+215 IFF 0.5564516129032258 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    4936
+1.0     248
+Name: count, dtype: int64
+0.0
+
+
+216 INTU 0.6194029850746269 0.0
+Target
+1    0.532907
+0    0.467093
+Name: count, dtype: float64
+Predictions
+0.0    4242
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+217 ISRG 0.5877862595419847 0.0
+Target
+1    0.554506
+0    0.445494
+Name: count, dtype: float64
+Predictions
+0.0    2410
+1.0     131
+Name: count, dtype: int64
+0.0
+
+
+218 IVZ 0.5586206896551724 0.0
+Target
+1    0.508655
+0    0.491345
+Name: count, dtype: float64
+Predictions
+0.0    3610
+1.0     145
+Name: count, dtype: int64
+0.0
+
+
+219 IPGP 0.5 0.0
+Target
+0    0.511551
+1    0.488449
+Name: count, dtype: float64
+Predictions
+0.0    751
+1.0    158
+Name: count, dtype: int64
+0.0
+
+
+220 IRM 0.5526315789473685 0.0
+Target
+1    0.522908
+0    0.477092
+Name: count, dtype: float64
+Predictions
+0.0    3569
+1.0      76
+Name: count, dtype: int64
+0.0
+
+
+221 JBHT 0.51 0.0
+Target
+1    0.506173
+0    0.493827
+Name: count, dtype: float64
+Predictions
+0.0    4984
+1.0     200
+Name: count, dtype: int64
+0.0
+
+
+222 JKHY 0.5517241379310345 0.0
+Target
+1    0.525656
+0    0.474344
+Name: count, dtype: float64
+Predictions
+0.0    5010
+1.0     174
+Name: count, dtype: int64
+0.0
+
+
+223 J 0.5638297872340425 0.0
+Target
+1    0.513696
+0    0.486304
+Name: count, dtype: float64
+Predictions
+0.0    5090
+1.0      94
+Name: count, dtype: int64
+0.0
+
+
+224 JNJ 0.5394736842105263 0.0
+Target
+1    0.511767
+0    0.488233
+Name: count, dtype: float64
+Predictions
+0.0    5032
+1.0     152
+Name: count, dtype: int64
+0.0
+
+
+225 JCI 0.6056338028169014 0.0
+Target
+1    0.519676
+0    0.480324
+Name: count, dtype: float64
+Predictions
+0.0    5113
+1.0      71
+Name: count, dtype: int64
+0.0
+
+
+226 JPM 0.5490196078431373 0.0
+Target
+1    0.509066
+0    0.490934
+Name: count, dtype: float64
+Predictions
+0.0    5133
+1.0      51
+Name: count, dtype: int64
+0.0
+
+
+227 JNPR 0.5324675324675324 0.0
+Target
+1    0.52439
+0    0.47561
+Name: count, dtype: float64
+Predictions
+0.0    2711
+1.0      77
+Name: count, dtype: int64
+0.0
+
+
+228 K 0.5482625482625483 0.0
+Target
+1    0.522762
+0    0.477238
+Name: count, dtype: float64
+Predictions
+0.0    4925
+1.0     259
+Name: count, dtype: int64
+0.0
+
+
+229 KEY 0.5608465608465608 0.0
+Target
+1    0.502315
+0    0.497685
+Name: count, dtype: float64
+Predictions
+0.0    4995
+1.0     189
+Name: count, dtype: int64
+0.0
+
+
+230 KMB 0.5267175572519084 0.0
+Target
+1    0.520255
+0    0.479745
+Name: count, dtype: float64
+Predictions
+0.0    4922
+1.0     262
+Name: count, dtype: int64
+0.0
+
+
+231 KIM 0.55 0.0
+Target
+1    0.517007
+0    0.482993
+Name: count, dtype: float64
+Predictions
+0.0    4444
+1.0     260
+Name: count, dtype: int64
+0.0
+
+
+232 KLAC 0.5 0.0
+Target
+1    0.520062
+0    0.479938
+Name: count, dtype: float64
+Predictions
+0.0    5016
+1.0     168
+Name: count, dtype: int64
+0.0
+
+
+233 KR 0.6333333333333333 0.0
+Target
+1    0.520255
+0    0.479745
+Name: count, dtype: float64
+Predictions
+0.0    5124
+1.0      60
+Name: count, dtype: int64
+0.0
+
+
+234 LHX 0.4913294797687861 0.0
+Target
+1    0.527006
+0    0.472994
+Name: count, dtype: float64
+Predictions
+0.0    5011
+1.0     173
+Name: count, dtype: int64
+0.0
+
+
+235 LH 0.5654205607476636 1.0
+Target
+1    0.522545
+0    0.477455
+Name: count, dtype: float64
+Predictions
+0.0    4909
+1.0     214
+Name: count, dtype: int64
+1.0
+
+
+236 LRCX 0.4791666666666667 0.0
+Target
+1    0.518326
+0    0.481674
+Name: count, dtype: float64
+Predictions
+0.0    5136
+1.0      48
+Name: count, dtype: int64
+0.0
+
+
+237 LVS 0.47560975609756095 0.0
+Target
+0    0.509207
+1    0.490793
+Name: count, dtype: float64
+Predictions
+0.0    1330
+1.0      82
+Name: count, dtype: int64
+0.0
+
+
+238 LDOS 0.5983606557377049 0.0
+Target
+1    0.530032
+0    0.469968
+Name: count, dtype: float64
+Predictions
+0.0    827
+1.0    122
+Name: count, dtype: int64
+0.0
+
+
+239 LEN 0.572463768115942 0.0
+Target
+0    0.503279
+1    0.496721
+Name: count, dtype: float64
+Predictions
+0.0    5046
+1.0     138
+Name: count, dtype: int64
+0.0
+
+
+240 LLY 0.5298507462686567 0.0
+Target
+1    0.524691
+0    0.475309
+Name: count, dtype: float64
+Predictions
+0.0    5050
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+241 LNC 0.4666666666666667 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    5124
+1.0      60
+Name: count, dtype: int64
+0.0
+
+
+242 LIN 0.5204819277108433 0.0
+Target
+1    0.522139
+0    0.477861
+Name: count, dtype: float64
+Predictions
+0.0    4147
+1.0     415
+Name: count, dtype: int64
+0.0
+
+
+243 LYV 0.6153846153846154 0.0
+Target
+1    0.501299
+0    0.498701
+Name: count, dtype: float64
+Predictions
+0.0    1129
+1.0      26
+Name: count, dtype: int64
+0.0
+
+
+244 LKQ 0.6086956521739131 0.0
+Target
+1    0.514886
+0    0.485114
+Name: count, dtype: float64
+Predictions
+0.0    1690
+1.0      23
+Name: count, dtype: int64
+0.0
+
+
+245 LMT 0.5287356321839081 0.0
+Target
+1    0.531443
+0    0.468557
+Name: count, dtype: float64
+Predictions
+0.0    5010
+1.0     174
+Name: count, dtype: int64
+0.0
+
+
+246 L 0.5970149253731343 0.0
+Target
+1    0.523341
+0    0.476659
+Name: count, dtype: float64
+Predictions
+0.0    5050
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+247 LOW 0.5511811023622047 0.0
+Target
+1    0.512346
+0    0.487654
+Name: count, dtype: float64
+Predictions
+0.0    4803
+1.0     381
+Name: count, dtype: int64
+0.0
+
+
+248 LUMN 0.517948717948718 0.0
+Target
+1    0.504823
+0    0.495177
+Name: count, dtype: float64
+Predictions
+0.0    4794
+1.0     390
+Name: count, dtype: int64
+0.0
+
+
+C:\Users\User\PycharmProjects\tradingbot\venv\Lib\site-packages\sklearn\metrics\_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+249 LYB 0.0 0.0
+Target
+0    0.548387
+1    0.451613
+Name: count, dtype: float64
+Predictions
+0.0    62
+Name: count, dtype: int64
+0.0
+
+
+250 MTB 0.5398550724637681 0.0
+Target
+1    0.517747
+0    0.482253
+Name: count, dtype: float64
+Predictions
+0.0    4908
+1.0     276
+Name: count, dtype: int64
+0.0
+
+
+251 MRO 0.521311475409836 0.0
+Target
+1    0.515046
+0    0.484954
+Name: count, dtype: float64
+Predictions
+0.0    4879
+1.0     305
+Name: count, dtype: int64
+0.0
+
+
+252 MKTX 0.5641025641025641 0.0
+Target
+1    0.512856
+0    0.487144
+Name: count, dtype: float64
+Predictions
+0.0    1400
+1.0      39
+Name: count, dtype: int64
+0.0
+
+
+253 MAR 0.5555555555555556 0.0
+Target
+1    0.525435
+0    0.474565
+Name: count, dtype: float64
+Predictions
+0.0    3061
+1.0      45
+Name: count, dtype: int64
+0.0
+
+
+254 MMC 0.5099009900990099 0.0
+Target
+1    0.524113
+0    0.475887
+Name: count, dtype: float64
+Predictions
+0.0    4982
+1.0     202
+Name: count, dtype: int64
+0.0
+
+
+255 MLM 0.4752475247524752 0.0
+Target
+1    0.51305
+0    0.48695
+Name: count, dtype: float64
+Predictions
+0.0    4037
+1.0     101
+Name: count, dtype: int64
+0.0
+
+
+256 MAS 0.5641025641025641 0.0
+Target
+1    0.513117
+0    0.486883
+Name: count, dtype: float64
+Predictions
+0.0    5145
+1.0      39
+Name: count, dtype: int64
+0.0
+
+
+257 MA 0.5144508670520231 0.0
+Target
+1    0.524309
+0    0.475691
+Name: count, dtype: float64
+Predictions
+0.0    876
+1.0    173
+Name: count, dtype: int64
+0.0
+
+
+258 MTCH 0.4742268041237113 0.0
+Target
+0    0.502153
+1    0.497847
+Name: count, dtype: float64
+Predictions
+0.0    4219
+1.0     194
+Name: count, dtype: int64
+0.0
+
+
+259 MKC 0.5552238805970149 0.0
+Target
+1    0.528356
+0    0.471644
+Name: count, dtype: float64
+Predictions
+0.0    4849
+1.0     335
+Name: count, dtype: int64
+0.0
+
+
+260 MCD 0.5547785547785548 0.0
+Target
+1    0.534722
+0    0.465278
+Name: count, dtype: float64
+Predictions
+0.0    4755
+1.0     429
+Name: count, dtype: int64
+0.0
+
+
+261 MCK 0.5942028985507246 0.0
+Target
+1    0.528579
+0    0.471421
+Name: count, dtype: float64
+Predictions
+0.0    3885
+1.0      69
+Name: count, dtype: int64
+0.0
+
+
+262 MDT 0.5609756097560976 0.0
+Target
+1    0.513117
+0    0.486883
+Name: count, dtype: float64
+Predictions
+0.0    4979
+1.0     205
+Name: count, dtype: int64
+0.0
+
+
+263 MRK 0.5063291139240507 0.0
+Target
+1    0.51196
+0    0.48804
+Name: count, dtype: float64
+Predictions
+0.0    5105
+1.0      79
+Name: count, dtype: int64
+0.0
+
+
+$FB: possibly delisted; No timezone found
+264 MET 0.5714285714285714 0.0
+Target
+1    0.523736
+0    0.476264
+Name: count, dtype: float64
+Predictions
+0.0    2535
+1.0      56
+Name: count, dtype: int64
+0.0
+
+
+265 MTD 0.5575757575757576 0.0
+Target
+1    0.545426
+0    0.454574
+Name: count, dtype: float64
+Predictions
+0.0    3027
+1.0     165
+Name: count, dtype: int64
+0.0
+
+
+266 MGM 0.4713375796178344 0.0
+Target
+1    0.505208
+0    0.494792
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+267 MCHP 0.5333333333333333 0.0
+Target
+1    0.519103
+0    0.480897
+Name: count, dtype: float64
+Predictions
+0.0    4251
+1.0     120
+Name: count, dtype: int64
+0.0
+
+
+268 MU 0.515625 0.0
+Target
+1    0.500386
+0    0.499614
+Name: count, dtype: float64
+Predictions
+0.0    5120
+1.0      64
+Name: count, dtype: int64
+0.0
+
+
+269 MSFT 0.554945054945055 0.0
+Target
+1    0.514082
+0    0.485918
+Name: count, dtype: float64
+Predictions
+0.0    5002
+1.0     182
+Name: count, dtype: int64
+0.0
+
+
+270 MAA 0.5126903553299492 1.0
+Target
+1    0.532033
+0    0.467967
+Name: count, dtype: float64
+Predictions
+0.0    3955
+1.0     197
+Name: count, dtype: int64
+1.0
+
+
+271 MHK 0.528 0.0
+Target
+1    0.504659
+0    0.495341
+Name: count, dtype: float64
+Predictions
+0.0    4490
+1.0     125
+Name: count, dtype: int64
+0.0
+
+
+272 MOH 0.6 0.0
+Target
+1    0.527263
+0    0.472737
+Name: count, dtype: float64
+Predictions
+0.0    1749
+1.0      30
+Name: count, dtype: int64
+0.0
+
+
+273 TAP 0.4897959183673469 0.0
+Target
+1    0.506944
+0    0.493056
+Name: count, dtype: float64
+Predictions
+0.0    4988
+1.0     196
+Name: count, dtype: int64
+0.0
+
+
+274 MDLZ 0.5416666666666666 0.0
+Target
+1    0.517016
+0    0.482984
+Name: count, dtype: float64
+Predictions
+0.0    2148
+1.0     144
+Name: count, dtype: int64
+0.0
+
+
+275 MPWR 0.6630434782608695 0.0
+Target
+1    0.53394
+0    0.46606
+Name: count, dtype: float64
+Predictions
+0.0    1337
+1.0      92
+Name: count, dtype: int64
+0.0
+
+
+276 MNST 0.4918918918918919 0.0
+Target
+1    0.51659
+0    0.48341
+Name: count, dtype: float64
+Predictions
+0.0    4999
+1.0     185
+Name: count, dtype: int64
+0.0
+
+
+277 MCO 0.5180722891566265 0.0
+Target
+1    0.53685
+0    0.46315
+Name: count, dtype: float64
+Predictions
+0.0    3796
+1.0     166
+Name: count, dtype: int64
+0.0
+
+
+278 MS 0.5815602836879432 0.0
+Target
+1    0.504899
+0    0.495101
+Name: count, dtype: float64
+Predictions
+0.0    4248
+1.0     141
+Name: count, dtype: int64
+0.0
+
+
+279 MOS 0.5637254901960784 0.0
+Target
+1    0.506752
+0    0.493248
+Name: count, dtype: float64
+Predictions
+0.0    4980
+1.0     204
+Name: count, dtype: int64
+0.0
+
+
+280 MSI 0.49624060150375937 0.0
+Target
+1    0.518904
+0    0.481096
+Name: count, dtype: float64
+Predictions
+0.0    5051
+1.0     133
+Name: count, dtype: int64
+0.0
+
+
+281 MSCI 0.417910447761194 0.0
+Target
+0    0.521418
+1    0.478582
+Name: count, dtype: float64
+Predictions
+0.0    610
+1.0     67
+Name: count, dtype: int64
+0.0
+
+
+282 NDAQ 0.5847953216374269 1.0
+Target
+1    0.53002
+0    0.46998
+Name: count, dtype: float64
+Predictions
+0.0    1861
+1.0     171
+Name: count, dtype: int64
+1.0
+
+
+283 NTAP 0.4090909090909091 0.0
+Target
+1    0.521115
+0    0.478885
+Name: count, dtype: float64
+Predictions
+0.0    3628
+1.0      66
+Name: count, dtype: int64
+0.0
+
+
+284 NFLX 0.4696969696969697 0.0
+Target
+1    0.51069
+0    0.48931
+Name: count, dtype: float64
+Predictions
+0.0    1992
+1.0      66
+Name: count, dtype: int64
+0.0
+
+
+285 NWL 0.5757575757575758 0.0
+Target
+0    0.500965
+1    0.499035
+Name: count, dtype: float64
+Predictions
+0.0    5085
+1.0      99
+Name: count, dtype: int64
+0.0
+
+
+286 NEM 0.45751633986928103 0.0
+Target
+0    0.503665
+1    0.496335
+Name: count, dtype: float64
+Predictions
+0.0    5031
+1.0     153
+Name: count, dtype: int64
+0.0
+
+
+287 NEE 0.5524475524475524 0.0
+Target
+1    0.536844
+0    0.463156
+Name: count, dtype: float64
+Predictions
+0.0    4898
+1.0     286
+Name: count, dtype: int64
+0.0
+
+
+$NLSN: possibly delisted; No timezone found
+288 NKE 0.472 0.0
+Target
+1    0.515625
+0    0.484375
+Name: count, dtype: float64
+Predictions
+0.0    5059
+1.0     125
+Name: count, dtype: int64
+0.0
+
+
+289 NI 0.5341880341880342 1.0
+Target
+1    0.527006
+0    0.472994
+Name: count, dtype: float64
+Predictions
+0.0    4950
+1.0     234
+Name: count, dtype: int64
+1.0
+
+
+290 NDSN 0.49612403100775193 0.0
+Target
+1    0.517361
+0    0.482639
+Name: count, dtype: float64
+Predictions
+0.0    5055
+1.0     129
+Name: count, dtype: int64
+0.0
+
+
+291 NSC 0.4826254826254826 0.0
+Target
+1    0.524113
+0    0.475887
+Name: count, dtype: float64
+Predictions
+0.0    4925
+1.0     259
+Name: count, dtype: int64
+0.0
+
+
+292 NTRS 0.5597014925373134 0.0
+Target
+1    0.515239
+0    0.484761
+Name: count, dtype: float64
+Predictions
+0.0    5050
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+293 NOC 0.5226130653266332 0.0
+Target
+1    0.532407
+0    0.467593
+Name: count, dtype: float64
+Predictions
+0.0    4985
+1.0     199
+Name: count, dtype: int64
+0.0
+
+
+$NLOK: possibly delisted; No timezone found
+294 NRG 0.3333333333333333 0.0
+Target
+1    0.537956
+0    0.462044
+Name: count, dtype: float64
+Predictions
+0.0    1670
+1.0       3
+Name: count, dtype: int64
+0.0
+
+
+295 NUE 0.49214659685863876 0.0
+Target
+1    0.51331
+0    0.48669
+Name: count, dtype: float64
+Predictions
+0.0    4993
+1.0     191
+Name: count, dtype: int64
+0.0
+
+
+296 NVDA 0.5384615384615384 0.0
+Target
+1    0.53886
+0    0.46114
+Name: count, dtype: float64
+Predictions
+0.0    2791
+1.0     104
+Name: count, dtype: int64
+0.0
+
+
+297 NVR 0.5035971223021583 0.0
+Target
+1    0.514082
+0    0.485918
+Name: count, dtype: float64
+Predictions
+0.0    4767
+1.0     417
+Name: count, dtype: int64
+0.0
+
+
+298 ORLY 0.5111111111111111 0.0
+Target
+1    0.530481
+0    0.469519
+Name: count, dtype: float64
+Predictions
+0.0    4167
+1.0     180
+Name: count, dtype: int64
+0.0
+
+
+299 OXY 0.5018315018315018 0.0
+Target
+1    0.510224
+0    0.489776
+Name: count, dtype: float64
+Predictions
+0.0    4911
+1.0     273
+Name: count, dtype: int64
+0.0
+
+
+300 ODFL 0.5309734513274337 0.0
+Target
+1    0.520847
+0    0.479153
+Name: count, dtype: float64
+Predictions
+0.0    4499
+1.0     226
+Name: count, dtype: int64
+0.0
+
+
+301 OMC 0.48148148148148145 0.0
+Target
+1    0.512924
+0    0.487076
+Name: count, dtype: float64
+Predictions
+0.0    5076
+1.0     108
+Name: count, dtype: int64
+0.0
+
+
+302 OKE 0.5031847133757962 0.0
+Target
+1    0.532215
+0    0.467785
+Name: count, dtype: float64
+Predictions
+0.0    5027
+1.0     157
+Name: count, dtype: int64
+0.0
+
+
+303 ORCL 0.6268656716417911 0.0
+Target
+1    0.515625
+0    0.484375
+Name: count, dtype: float64
+Predictions
+0.0    5050
+1.0     134
+Name: count, dtype: int64
+0.0
+
+
+304 PCAR 0.4268292682926829 0.0
+Target
+1    0.514082
+0    0.485918
+Name: count, dtype: float64
+Predictions
+0.0    5102
+1.0      82
+Name: count, dtype: int64
+0.0
+
+
+305 PKG 0.5703703703703704 0.0
+Target
+1    0.52464
+0    0.47536
+Name: count, dtype: float64
+Predictions
+0.0    2368
+1.0     270
+Name: count, dtype: int64
+0.0
+
+
+306 PARA 0.4430379746835443 0.0
+Target
+0    0.511568
+1    0.488432
+Name: count, dtype: float64
+Predictions
+0.0    1088
+1.0      79
+Name: count, dtype: int64
+0.0
+
+
+307 PH 0.41818181818181815 0.0
+Target
+1    0.518326
+0    0.481674
+Name: count, dtype: float64
+Predictions
+0.0    5129
+1.0      55
+Name: count, dtype: int64
+0.0
+
+
+308 PAYX 0.5454545454545454 0.0
+Target
+1    0.519097
+0    0.480903
+Name: count, dtype: float64
+Predictions
+0.0    5074
+1.0     110
+Name: count, dtype: int64
+0.0
+
+
+309 PENN 0.5180722891566265 0.0
+Target
+0    0.507001
+1    0.492999
+Name: count, dtype: float64
+Predictions
+0.0    3988
+1.0      83
+Name: count, dtype: int64
+0.0
+
+
+310 PNR 0.5126903553299492 0.0
+Target
+1    0.519676
+0    0.480324
+Name: count, dtype: float64
+Predictions
+0.0    4987
+1.0     197
+Name: count, dtype: int64
+0.0
+
+
+311 PEP 0.5401069518716578 0.0
+Target
+1    0.517747
+0    0.482253
+Name: count, dtype: float64
+Predictions
+0.0    4997
+1.0     187
+Name: count, dtype: int64
+0.0
+
+
+$PKI: possibly delisted; No timezone found
+312 PFE 0.5482233502538071 0.0
+Target
+0    0.512153
+1    0.487847
+Name: count, dtype: float64
+Predictions
+0.0    4987
+1.0     197
+Name: count, dtype: int64
+0.0
+
+
+313 PM 0.6923076923076923 0.0
+Target
+1    0.52605
+0    0.47395
+Name: count, dtype: float64
+Predictions
+0.0    569
+1.0     26
+Name: count, dtype: int64
+0.0
+
+
+314 PNW 0.44642857142857145 0.0
+Target
+1    0.51929
+0    0.48071
+Name: count, dtype: float64
+Predictions
+0.0    5072
+1.0     112
+Name: count, dtype: int64
+0.0
+
+
+315 PXD 0.52046783625731 0.0
+Target
+1    0.509142
+0    0.490858
+Name: count, dtype: float64
+Predictions
+0.0    3056
+1.0     171
+Name: count, dtype: int64
+0.0
+
+
+316 PNC 0.5555555555555556 0.0
+Target
+1    0.510417
+0    0.489583
+Name: count, dtype: float64
+Predictions
+0.0    4995
+1.0     189
+Name: count, dtype: int64
+0.0
+
+
+317 POOL 0.5035971223021583 0.0
+Target
+1    0.527009
+0    0.472991
+Name: count, dtype: float64
+Predictions
+0.0    3582
+1.0     139
+Name: count, dtype: int64
+0.0
+
+
+318 PPG 0.49808429118773945 0.0
+Target
+1    0.524691
+0    0.475309
+Name: count, dtype: float64
+Predictions
+0.0    4923
+1.0     261
+Name: count, dtype: int64
+0.0
+
+
+319 PPL 0.4909090909090909 0.0
+Target
+1    0.524884
+0    0.475116
+Name: count, dtype: float64
+Predictions
+0.0    4909
+1.0     275
+Name: count, dtype: int64
+0.0
+
+
+320 PFG 0.5813953488372093 0.0
+Target
+1    0.521779
+0    0.478221
+Name: count, dtype: float64
+Predictions
+0.0    2075
+1.0     129
+Name: count, dtype: int64
+0.0
+
+
+321 PG 0.4752475247524752 0.0
+Target
+1    0.520062
+0    0.479938
+Name: count, dtype: float64
+Predictions
+0.0    5083
+1.0     101
+Name: count, dtype: int64
+0.0
+
+
+322 PGR 0.5402298850574713 0.0
+Target
+1    0.516975
+0    0.483025
+Name: count, dtype: float64
+Predictions
+0.0    5097
+1.0      87
+Name: count, dtype: int64
+0.0
+
+
+323 PLD 0.5486111111111112 0.0
+Target
+1    0.533731
+0    0.466269
+Name: count, dtype: float64
+Predictions
+0.0    3043
+1.0     144
+Name: count, dtype: int64
+0.0
+
+
+324 PRU 0.4567901234567901 0.0
+Target
+1    0.524908
+0    0.475092
+Name: count, dtype: float64
+Predictions
+0.0    2087
+1.0      81
+Name: count, dtype: int64
+0.0
+
+
+325 PEG 0.5 0.0
+Target
+1    0.529707
+0    0.470293
+Name: count, dtype: float64
+Predictions
+0.0    5098
+1.0      86
+Name: count, dtype: int64
+0.0
+
+
+326 PTC 0.4788732394366197 0.0
+Target
+1    0.516975
+0    0.483025
+Name: count, dtype: float64
+Predictions
+0.0    5113
+1.0      71
+Name: count, dtype: int64
+0.0
+
+
+327 PSA 0.5509259259259259 0.0
+Target
+1    0.532793
+0    0.467207
+Name: count, dtype: float64
+Predictions
+0.0    4752
+1.0     432
+Name: count, dtype: int64
+0.0
+
+
+328 PHM 0.5344827586206896 0.0
+Target
+1    0.503086
+0    0.496914
+Name: count, dtype: float64
+Predictions
+0.0    5068
+1.0     116
+Name: count, dtype: int64
+0.0
+
+
+329 PVH 0.53125 0.0
+Target
+1    0.503279
+0    0.496721
+Name: count, dtype: float64
+Predictions
+0.0    5056
+1.0     128
+Name: count, dtype: int64
+0.0
+
+
+330 PWR 0.5657894736842105 0.0
+Target
+1    0.528416
+0    0.471584
+Name: count, dtype: float64
+Predictions
+0.0    3056
+1.0      76
+Name: count, dtype: int64
+0.0
+
+
+331 QCOM 0.5189873417721519 0.0
+Target
+1    0.510661
+0    0.489339
+Name: count, dtype: float64
+Predictions
+0.0    4611
+1.0      79
+Name: count, dtype: int64
+0.0
+
+
+332 DGX 0.5465116279069767 0.0
+Target
+1    0.523517
+0    0.476483
+Name: count, dtype: float64
+Predictions
+0.0    3337
+1.0      86
+Name: count, dtype: int64
+0.0
+
+
+333 RL 0.3902439024390244 0.0
+Target
+1    0.513481
+0    0.486519
+Name: count, dtype: float64
+Predictions
+0.0    3260
+1.0      41
+Name: count, dtype: int64
+0.0
+
+
+334 RJF 0.5387755102040817 0.0
+Target
+1    0.520062
+0    0.479938
+Name: count, dtype: float64
+Predictions
+0.0    4939
+1.0     245
+Name: count, dtype: int64
+0.0
+
+
+335 RTX 0.5588235294117647 0.0
+Target
+1    0.515046
+0    0.484954
+Name: count, dtype: float64
+Predictions
+0.0    5048
+1.0     136
+Name: count, dtype: int64
+0.0
+
+
+336 O 0.5691906005221932 0.0
+Target
+1    0.53236
+0    0.46764
+Name: count, dtype: float64
+Predictions
+0.0    3588
+1.0     383
+Name: count, dtype: int64
+0.0
+
+
+337 REG 0.5381944444444444 0.0
+Target
+1    0.516963
+0    0.483037
+Name: count, dtype: float64
+Predictions
+0.0    3927
+1.0     288
+Name: count, dtype: int64
+0.0
+
+
+338 REGN 0.7407407407407407 0.0
+Target
+1    0.502157
+0    0.497843
+Name: count, dtype: float64
+Predictions
+0.0    4842
+1.0      27
+Name: count, dtype: int64
+0.0
+
+
+339 RF 0.4863636363636364 0.0
+Target
+1    0.504437
+0    0.495563
+Name: count, dtype: float64
+Predictions
+0.0    4964
+1.0     220
+Name: count, dtype: int64
+0.0
+
+
+340 RSG 0.5409836065573771 0.0
+Target
+1    0.550066
+0    0.449934
+Name: count, dtype: float64
+Predictions
+0.0    2853
+1.0     183
+Name: count, dtype: int64
+0.0
+
+
+341 RMD 0.5406976744186046 0.0
+Target
+1    0.545359
+0    0.454641
+Name: count, dtype: float64
+Predictions
+0.0    3642
+1.0     172
+Name: count, dtype: int64
+0.0
+
+
+342 RHI 0.4673913043478261 0.0
+Target
+1    0.514082
+0    0.485918
+Name: count, dtype: float64
+Predictions
+0.0    5092
+1.0      92
+Name: count, dtype: int64
+0.0
+
+
+343 ROK 0.485 0.0
+Target
+1    0.519676
+0    0.480324
+Name: count, dtype: float64
+Predictions
+0.0    4984
+1.0     200
+Name: count, dtype: int64
+0.0
+
+
+344 ROL 0.6206896551724138 0.0
+Target
+1    0.517168
+0    0.482832
+Name: count, dtype: float64
+Predictions
+0.0    4952
+1.0     232
+Name: count, dtype: int64
+0.0
+
+
+345 ROP 0.525 0.0
+Target
+1    0.535714
+0    0.464286
+Name: count, dtype: float64
+Predictions
+0.0    4488
+1.0     160
+Name: count, dtype: int64
+0.0
+
+
+346 ROST 0.6 0.0
+Target
+1    0.514275
+0    0.485725
+Name: count, dtype: float64
+Predictions
+0.0    5144
+1.0      40
+Name: count, dtype: int64
+0.0
+
+
+347 RCL 0.55 0.0
+Target
+1    0.504604
+0    0.495396
+Name: count, dtype: float64
+Predictions
+0.0    4284
+1.0      60
+Name: count, dtype: int64
+0.0
+
+
+348 SPGI 0.5544554455445545 0.0
+Target
+1    0.527199
+0    0.472801
+Name: count, dtype: float64
+Predictions
+0.0    5083
+1.0     101
+Name: count, dtype: int64
+0.0
+
+
+349 CRM 0.5512820512820513 0.0
+Target
+1    0.527379
+0    0.472621
+Name: count, dtype: float64
+Predictions
+0.0    1456
+1.0      78
+Name: count, dtype: int64
+0.0
+
+
+350 SBAC 0.5416666666666666 0.0
+Target
+1    0.528801
+0    0.471199
+Name: count, dtype: float64
+Predictions
+0.0    2723
+1.0      72
+Name: count, dtype: int64
+0.0
+
+
+351 SLB 0.5108695652173914 0.0
+Target
+1    0.505401
+0    0.494599
+Name: count, dtype: float64
+Predictions
+0.0    5092
+1.0      92
+Name: count, dtype: int64
+0.0
+
+
+352 STX 0.37037037037037035 0.0
+Target
+1    0.536496
+0    0.463504
+Name: count, dtype: float64
+Predictions
+0.0    1891
+1.0      27
+Name: count, dtype: int64
+0.0
+
+
+353 SEE 0.43243243243243246 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    5110
+1.0      74
+Name: count, dtype: int64
+0.0
+
+
+354 SRE 0.56 0.0
+Target
+1    0.531271
+0    0.468729
+Name: count, dtype: float64
+Predictions
+0.0    2938
+1.0     100
+Name: count, dtype: int64
+0.0
+
+
+355 SHW 0.4742268041237113 0.0
+Target
+1    0.525849
+0    0.474151
+Name: count, dtype: float64
+Predictions
+0.0    4990
+1.0     194
+Name: count, dtype: int64
+0.0
+
+
+356 SBNY 0.4568345323741007 0.0
+Target
+0    0.50908
+1    0.49092
+Name: count, dtype: float64
+Predictions
+0.0    1319
+1.0     278
+Name: count, dtype: int64
+0.0
+
+
+357 SPG 0.532394366197183 0.0
+Target
+1    0.525096
+0    0.474904
+Name: count, dtype: float64
+Predictions
+0.0    3829
+1.0     355
+Name: count, dtype: int64
+0.0
+
+
+358 SWKS 0.48366013071895425 0.0
+Target
+1    0.510031
+0    0.489969
+Name: count, dtype: float64
+Predictions
+0.0    5031
+1.0     153
+Name: count, dtype: int64
+0.0
+
+
+359 SJM 0.5060240963855421 1.0
+Target
+1    0.521959
+0    0.478041
+Name: count, dtype: float64
+Predictions
+0.0    3879
+1.0      83
+Name: count, dtype: int64
+1.0
+
+
+360 SNA 0.5061728395061729 0.0
+Target
+1    0.520062
+0    0.479938
+Name: count, dtype: float64
+Predictions
+0.0    5103
+1.0      81
+Name: count, dtype: int64
+0.0
+
+
+361 SO 0.5306859205776173 0.0
+Target
+1    0.518326
+0    0.481674
+Name: count, dtype: float64
+Predictions
+0.0    4907
+1.0     277
+Name: count, dtype: int64
+0.0
+
+
+362 LUV 0.5175 0.0
+Target
+0    0.503279
+1    0.496721
+Name: count, dtype: float64
+Predictions
+0.0    4784
+1.0     400
+Name: count, dtype: int64
+0.0
+
+
+363 SWK 0.4913294797687861 0.0
+Target
+1    0.515046
+0    0.484954
+Name: count, dtype: float64
+Predictions
+0.0    5011
+1.0     173
+Name: count, dtype: int64
+0.0
+
+
+364 SBUX 0.4872881355932203 0.0
+Target
+1    0.506257
+0    0.493743
+Name: count, dtype: float64
+Predictions
+0.0    4319
+1.0     236
+Name: count, dtype: int64
+0.0
+
+
+365 STT 0.50625 0.0
+Target
+1    0.511188
+0    0.488812
+Name: count, dtype: float64
+Predictions
+0.0    5024
+1.0     160
+Name: count, dtype: int64
+0.0
+
+
+366 STE 0.6363636363636364 0.0
+Target
+1    0.521644
+0    0.478356
+Name: count, dtype: float64
+Predictions
+0.0    4541
+1.0      33
+Name: count, dtype: int64
+0.0
+
+
+367 SYK 0.519774011299435 0.0
+Target
+1    0.52392
+0    0.47608
+Name: count, dtype: float64
+Predictions
+0.0    5007
+1.0     177
+Name: count, dtype: int64
+0.0
+
+
+SIVB: Period 'max' is invalid, must be one of ['1d', '5d']
+368 SNPS 0.5089285714285714 0.0
+Target
+1    0.534052
+0    0.465948
+Name: count, dtype: float64
+Predictions
+0.0    4416
+1.0     224
+Name: count, dtype: int64
+0.0
+
+
+369 SYY 0.5335463258785943 0.0
+Target
+1    0.510417
+0    0.489583
+Name: count, dtype: float64
+Predictions
+0.0    4871
+1.0     313
+Name: count, dtype: int64
+0.0
+
+
+370 TMUS 0.5491803278688525 0.0
+Target
+1    0.508495
+0    0.491505
+Name: count, dtype: float64
+Predictions
+0.0    702
+1.0    122
+Name: count, dtype: int64
+0.0
+
+
+371 TROW 0.5164319248826291 0.0
+Target
+1    0.518711
+0    0.481289
+Name: count, dtype: float64
+Predictions
+0.0    4971
+1.0     213
+Name: count, dtype: int64
+0.0
+
+
+372 TTWO 0.5170454545454546 0.0
+Target
+1    0.514363
+0    0.485637
+Name: count, dtype: float64
+Predictions
+0.0    3166
+1.0     176
+Name: count, dtype: int64
+0.0
+
+
+373 TPR 0.6304347826086957 0.0
+Target
+1    0.511977
+0    0.488023
+Name: count, dtype: float64
+Predictions
+0.0    2417
+1.0      46
+Name: count, dtype: int64
+0.0
+
+
+374 TGT 0.5168539325842697 0.0
+Target
+1    0.51061
+0    0.48939
+Name: count, dtype: float64
+Predictions
+0.0    5095
+1.0      89
+Name: count, dtype: int64
+0.0
+
+
+375 TEL 0.5462184873949579 0.0
+Target
+1    0.510828
+0    0.489172
+Name: count, dtype: float64
+Predictions
+0.0    666
+1.0    119
+Name: count, dtype: int64
+0.0
+
+
+376 TDY 0.6266666666666667 0.0
+Target
+1    0.537458
+0    0.462542
+Name: count, dtype: float64
+Predictions
+0.0    2608
+1.0      75
+Name: count, dtype: int64
+0.0
+
+
+377 TFX 0.5096153846153846 0.0
+Target
+1    0.519097
+0    0.480903
+Name: count, dtype: float64
+Predictions
+0.0    5080
+1.0     104
+Name: count, dtype: int64
+0.0
+
+
+378 TER 0.5106382978723404 0.0
+Target
+1    0.510031
+0    0.489969
+Name: count, dtype: float64
+Predictions
+0.0    5137
+1.0      47
+Name: count, dtype: int64
+0.0
+
+
+379 TSLA 0.0 0.0
+Target
+0    0.631579
+1    0.368421
+Name: count, dtype: float64
+Predictions
+0.0    19
+Name: count, dtype: int64
+0.0
+
+
+C:\Users\User\PycharmProjects\tradingbot\venv\Lib\site-packages\sklearn\metrics\_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+380 TXN 0.5957446808510638 0.0
+Target
+1    0.519483
+0    0.480517
+Name: count, dtype: float64
+Predictions
+0.0    5043
+1.0     141
+Name: count, dtype: int64
+0.0
+
+
+381 TXT 0.43636363636363634 0.0
+Target
+1    0.507137
+0    0.492863
+Name: count, dtype: float64
+Predictions
+0.0    5129
+1.0      55
+Name: count, dtype: int64
+0.0
+
+
+382 TMO 0.4857142857142857 0.0
+Target
+1    0.521605
+0    0.478395
+Name: count, dtype: float64
+Predictions
+0.0    5114
+1.0      70
+Name: count, dtype: int64
+0.0
+
+
+383 TJX 0.49514563106796117 0.0
+Target
+1    0.516011
+0    0.483989
+Name: count, dtype: float64
+Predictions
+0.0    5081
+1.0     103
+Name: count, dtype: int64
+0.0
+
+
+384 TSCO 0.5169491525423728 0.0
+Target
+1    0.527791
+0    0.472209
+Name: count, dtype: float64
+Predictions
+0.0    4020
+1.0     118
+Name: count, dtype: int64
+0.0
+
+
+385 TT 0.5416666666666666 0.0
+Target
+1    0.531443
+0    0.468557
+Name: count, dtype: float64
+Predictions
+0.0    5088
+1.0      96
+Name: count, dtype: int64
+0.0
+
+
+386 TDG 0.5670498084291188 0.0
+Target
+1    0.542311
+0    0.457689
+Name: count, dtype: float64
+Predictions
+0.0    838
+1.0    261
+Name: count, dtype: int64
+0.0
+
+
+387 TRV 0.5780141843971631 0.0
+Target
+1    0.528742
+0    0.471258
+Name: count, dtype: float64
+Predictions
+0.0    4902
+1.0     282
+Name: count, dtype: int64
+0.0
+
+
+388 TRMB 0.48598130841121495 0.0
+Target
+1    0.502279
+0    0.497721
+Name: count, dtype: float64
+Predictions
+0.0    4938
+1.0     107
+Name: count, dtype: int64
+0.0
+
+
+389 TFC 0.5384615384615384 0.0
+Target
+1    0.506173
+0    0.493827
+Name: count, dtype: float64
+Predictions
+0.0    4950
+1.0     234
+Name: count, dtype: int64
+0.0
+
+
+390 TYL 0.546875 0.0
+Target
+1    0.52527
+0    0.47473
+Name: count, dtype: float64
+Predictions
+0.0    4864
+1.0     320
+Name: count, dtype: int64
+0.0
+
+
+391 TSN 0.4765625 0.0
+Target
+1    0.52064
+0    0.47936
+Name: count, dtype: float64
+Predictions
+0.0    5056
+1.0     128
+Name: count, dtype: int64
+0.0
+
+
+392 USB 0.5288888888888889 0.0
+Target
+1    0.509645
+0    0.490355
+Name: count, dtype: float64
+Predictions
+0.0    4959
+1.0     225
+Name: count, dtype: int64
+0.0
+
+
+393 UDR 0.5409836065573771 0.0
+Target
+1    0.526042
+0    0.473958
+Name: count, dtype: float64
+Predictions
+0.0    4757
+1.0     427
+Name: count, dtype: int64
+0.0
+
+
+C:\Users\User\PycharmProjects\tradingbot\venv\Lib\site-packages\sklearn\metrics\_classification.py:1517: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+394 ULTA 0.0 0.0
+Target
+1    0.520231
+0    0.479769
+Name: count, dtype: float64
+Predictions
+0.0    692
+Name: count, dtype: int64
+0.0
+
+
+395 UAA 0.5416666666666666 0.0
+Target
+1    0.502974
+0    0.497026
+Name: count, dtype: float64
+Predictions
+0.0    1153
+1.0      24
+Name: count, dtype: int64
+0.0
+
+
+396 UNP 0.5126050420168067 0.0
+Target
+1    0.513696
+0    0.486304
+Name: count, dtype: float64
+Predictions
+0.0    5065
+1.0     119
+Name: count, dtype: int64
+0.0
+
+
+397 UAL 0.48756218905472637 0.0
+Target
+0    0.515556
+1    0.484444
+Name: count, dtype: float64
+Predictions
+0.0    924
+1.0    201
+Name: count, dtype: int64
+0.0
+
+
+398 UNH 0.5 0.0
+Target
+1    0.522184
+0    0.477816
+Name: count, dtype: float64
+Predictions
+0.0    4836
+1.0     348
+Name: count, dtype: int64
+0.0
+
+
+399 UPS 0.47619047619047616 0.0
+Target
+1    0.517831
+0    0.482169
+Name: count, dtype: float64
+Predictions
+0.0    2629
+1.0      63
+Name: count, dtype: int64
+0.0
+
+
+400 URI 0.48717948717948717 0.0
+Target
+1    0.530136
+0    0.469864
+Name: count, dtype: float64
+Predictions
+0.0    3091
+1.0      78
+Name: count, dtype: int64
+0.0
+
+
+401 UHS 0.5523255813953488 0.0
+Target
+1    0.510031
+0    0.489969
+Name: count, dtype: float64
+Predictions
+0.0    5012
+1.0     172
+Name: count, dtype: int64
+0.0
+
+
+402 VLO 0.48928571428571427 0.0
+Target
+1    0.523727
+0    0.476273
+Name: count, dtype: float64
+Predictions
+0.0    4904
+1.0     280
+Name: count, dtype: int64
+0.0
+
+
+403 VTR 0.5656108597285068 0.0
+Target
+1    0.533954
+0    0.466046
+Name: count, dtype: float64
+Predictions
+0.0    3107
+1.0     221
+Name: count, dtype: int64
+0.0
+
+
+404 VRSN 0.5409836065573771 0.0
+Target
+1    0.541547
+0    0.458453
+Name: count, dtype: float64
+Predictions
+0.0    2958
+1.0     183
+Name: count, dtype: int64
+0.0
+
+
+405 VRSK 0.5 0.0
+Target
+1    0.537313
+0    0.462687
+Name: count, dtype: float64
+Predictions
+0.0    181
+1.0     20
+Name: count, dtype: int64
+0.0
+
+
+406 VZ 0.5421686746987951 0.0
+Target
+1    0.510031
+0    0.489969
+Name: count, dtype: float64
+Predictions
+0.0    5101
+1.0      83
+Name: count, dtype: int64
+0.0
+
+
+407 VRTX 0.7916666666666666 0.0
+Target
+1    0.50167
+0    0.49833
+Name: count, dtype: float64
+Predictions
+0.0    4766
+1.0      24
+Name: count, dtype: int64
+0.0
+
+
+408 VFC 0.4489795918367347 0.0
+Target
+1    0.514468
+0    0.485532
+Name: count, dtype: float64
+Predictions
+0.0    5086
+1.0      98
+Name: count, dtype: int64
+0.0
+
+
+409 VTRS 0.45901639344262296 0.0
+Target
+0    0.503086
+1    0.496914
+Name: count, dtype: float64
+Predictions
+0.0    5001
+1.0     183
+Name: count, dtype: int64
+0.0
+
+
+410 V 0.625 0.0
+Target
+1    0.536256
+0    0.463744
+Name: count, dtype: float64
+Predictions
+0.0    521
+1.0     72
+Name: count, dtype: int64
+0.0
+
+
+411 VNO 0.5034965034965035 0.0
+Target
+1    0.516975
+0    0.483025
+Name: count, dtype: float64
+Predictions
+0.0    4755
+1.0     429
+Name: count, dtype: int64
+0.0
+
+
+412 VMC 0.5 0.0
+Target
+1    0.508295
+0    0.491705
+Name: count, dtype: float64
+Predictions
+0.0    5084
+1.0     100
+Name: count, dtype: int64
+0.0
+
+
+413 WAB 0.5276073619631901 0.0
+Target
+1    0.52103
+0    0.47897
+Name: count, dtype: float64
+Predictions
+0.0    3641
+1.0     163
+Name: count, dtype: int64
+0.0
+
+
+414 WMT 0.5739130434782609 0.0
+Target
+1    0.520448
+0    0.479552
+Name: count, dtype: float64
+Predictions
+0.0    5069
+1.0     115
+Name: count, dtype: int64
+0.0
+
+
+415 WBA 0.41216216216216217 0.0
+Target
+0    0.503086
+1    0.496914
+Name: count, dtype: float64
+Predictions
+0.0    5036
+1.0     148
+Name: count, dtype: int64
+0.0
+
+
+416 WBD 0.4972677595628415 1.0
+Target
+0    0.507474
+1    0.492526
+Name: count, dtype: float64
+Predictions
+0.0    1088
+1.0     183
+Name: count, dtype: int64
+1.0
+
+
+417 WM 0.5360230547550432 0.0
+Target
+1    0.535687
+0    0.464313
+Name: count, dtype: float64
+Predictions
+0.0    4837
+1.0     347
+Name: count, dtype: int64
+0.0
+
+
+418 WAT 0.5 0.0
+Target
+1    0.528409
+0    0.471591
+Name: count, dtype: float64
+Predictions
+0.0    3560
+1.0     136
+Name: count, dtype: int64
+0.0
+
+
+419 WEC 0.5471698113207547 0.0
+Target
+1    0.533372
+0    0.466628
+Name: count, dtype: float64
+Predictions
+0.0    4866
+1.0     318
+Name: count, dtype: int64
+0.0
+
+
+420 WFC 0.5174129353233831 0.0
+Target
+1    0.502122
+0    0.497878
+Name: count, dtype: float64
+Predictions
+0.0    4983
+1.0     201
+Name: count, dtype: int64
+0.0
+
+
+421 WELL 0.5718475073313783 0.0
+Target
+1    0.538194
+0    0.461806
+Name: count, dtype: float64
+Predictions
+0.0    4502
+1.0     682
+Name: count, dtype: int64
+0.0
+
+
+422 WST 0.4782608695652174 0.0
+Target
+1    0.518904
+0    0.481096
+Name: count, dtype: float64
+Predictions
+0.0    5138
+1.0      46
+Name: count, dtype: int64
+0.0
+
+
+423 WDC 0.6379310344827587 0.0
+Target
+1    0.510031
+0    0.489969
+Name: count, dtype: float64
+Predictions
+0.0    5126
+1.0      58
+Name: count, dtype: int64
+0.0
+
+
+424 WY 0.4482758620689655 0.0
+Target
+1    0.51331
+0    0.48669
+Name: count, dtype: float64
+Predictions
+0.0    5039
+1.0     145
+Name: count, dtype: int64
+0.0
+
+
+425 WHR 0.43478260869565216 0.0
+Target
+1    0.508295
+0    0.491705
+Name: count, dtype: float64
+Predictions
+0.0    5092
+1.0      92
+Name: count, dtype: int64
+0.0
+
+
+426 WMB 0.5335820895522388 0.0
+Target
+1    0.522569
+0    0.477431
+Name: count, dtype: float64
+Predictions
+0.0    4916
+1.0     268
+Name: count, dtype: int64
+0.0
+
+
+427 WTW 0.5449101796407185 0.0
+Target
+1    0.535543
+0    0.464457
+Name: count, dtype: float64
+Predictions
+0.0    2126
+1.0     167
+Name: count, dtype: int64
+0.0
+
+
+428 WYNN 0.6086956521739131 0.0
+Target
+0    0.502051
+1    0.497949
+Name: count, dtype: float64
+Predictions
+0.0    1904
+1.0      46
+Name: count, dtype: int64
+0.0
+
+
+429 XEL 0.5517241379310345 1.0
+Target
+1    0.525849
+0    0.474151
+Name: count, dtype: float64
+Predictions
+0.0    4952
+1.0     232
+Name: count, dtype: int64
+1.0
+
+
+430 YUM 0.5152838427947598 0.0
+Target
+1    0.533704
+0    0.466296
+Name: count, dtype: float64
+Predictions
+0.0    3005
+1.0     229
+Name: count, dtype: int64
+0.0
+
+
+431 ZBRA 0.5196078431372549 0.0
+Target
+1    0.514244
+0    0.485756
+Name: count, dtype: float64
+Predictions
+0.0    4570
+1.0     204
+Name: count, dtype: int64
+0.0
+
+
+432 ZBH 0.46875 0.0
+Target
+0    0.50243
+1    0.49757
+Name: count, dtype: float64
+Predictions
+0.0    2135
+1.0     128
+Name: count, dtype: int64
+0.0
+
+
+433 ZION 0.5528455284552846 0.0
+Target
+1    0.507909
+0    0.492091
+Name: count, dtype: float64
+Predictions
+0.0    5061
+1.0     123
+Name: count, dtype: int64
+0.0
+
+
+$ZT: possibly delisted; No timezone found
+Время работы скрипта: 15053.254707574844
+
+Process finished with exit code 0
